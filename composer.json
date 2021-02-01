@@ -1,0 +1,22 @@
+{
+    "name": "lanza/digital-cep",
+    "description": "Busca de cep online",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thiago Lanza",
+            "email": "lanzathm@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "Lanza\\DigitalCep\\": "src/"
+        }
+    }
+}
