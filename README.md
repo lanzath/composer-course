@@ -1,9 +1,13 @@
-# Composer e PHPunit
+# Composer e Packagist
 ### Aulas do curso de desenvolvimento avançado em PHP da Digital Innovation One
 
 [Digital Innovation One](https://web.digitalinnovation.one/)
 
-**Exemplo de uso:**
+Aula sobre como utilizar o composer para inicialização de projeto e cadastro de pacote no [Packagist](https://packagist.org/)
+
+Comando de inicialização: `composer init`
+
+**Exemplo de uso do pacote criado:**
 ```php
 <?php
 
